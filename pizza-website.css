@@ -1,0 +1,28 @@
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.item {
+  background-color: #ffffff;
+  border: 1px solid #ff0000;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+}
+
+.item img {
+  max-width: 100%;
+}
+
+.item h3 {
+  margin-top: 20px;
+}
+
+.item p {
+  margin: 10px 0;
+}
+
